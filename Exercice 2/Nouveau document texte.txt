@@ -1,9 +1,0 @@
-changer les codes (menuclature)
-refaire le pathfinding et waypoints
-refaire le blog post
-faire minimum 2 mobs avec les states machines
-netoyer les codes et personnaliser
-annotation en englais du code
-
-pathfinding -> 2 IA -> setup callité du code -> developper le blogpost
-
